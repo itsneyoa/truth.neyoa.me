@@ -1,2 +1,1 @@
-# horsescary.github.io
-im trying to make a bad website
+#web desihn is my passion
