@@ -7,7 +7,7 @@ var join = require('path').join;
 var exec = require('child_process').exec;
 var ioc = require('socket.io-client');
 var request = require('supertest');
-var expect = require('expect.js');
+https://github.com/HorseScary/HorseScary.github.iovar expect = require('expect.js');
 
 // Creates a socket.io client for the given server
 function client(srv, nsp, opts){
