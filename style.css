@@ -1,28 +1,33 @@
 header {
-    background-color: lime;
     font-size: 40px;
     text-align: center;
+    font-family: 'Henny Penny', cursive;
+
 }
 body {
     background-color:limegreen;
 }
 li {
     float: left;
+    background-color: lime;
 }
 li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 10px; 
-  text-decoration: none;
-  font-size: 20px;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px; 
+    text-decoration: none;
+    font-size: 20px;
+    background-color:lime;
+    font-family: 'Henny Penny', cursive;
+
 }
 
-li:hover {
+li a:hover {
     background-color:cyan;
 }
 ul {
     list-style-type: none;
     overflow: hidden;
-    background-color: green;
+    background-color: lime;
 }
