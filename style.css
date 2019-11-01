@@ -19,7 +19,7 @@ links a{
 links:hover {
     background-color:cyan;
 }
-links ul{i
+links ul{
 list-style-type: none;
 overflow: hidden;
 background-color: green;
@@ -28,7 +28,9 @@ font-size: 20px;
 padding: 20px;
 text-color:blue;
 }
-
+links ul a{
+    color: black;
+}
 ul {
     list-style-type: none;
     overflow: hidden;
