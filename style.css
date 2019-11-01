@@ -10,7 +10,6 @@ links {
     background-color: green;
     text-align: center;
     font-size: 20px;
-    text-color:blue;
     padding: 10px;
 }
 links a{
@@ -20,6 +19,16 @@ links a{
 links:hover {
     background-color:cyan;
 }
+links ul{i
+list-style-type: none;
+overflow: hidden;
+background-color: green;
+text-align: center;
+font-size: 20px;
+padding: 20px;
+text-color:blue;
+}
+
 ul {
     list-style-type: none;
     overflow: hidden;
