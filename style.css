@@ -5,7 +5,7 @@ header {
     text-shadow: 2px 3px;
 }
 body {
-    background-color:limegreen;
+    background-image: linear-gradient(to right, limegreen, green);
 }
 body a{
     color: black;
@@ -23,9 +23,7 @@ li a {
     font-size: 20px;
     background-color:lime;
     font-family: 'Henny Penny', cursive;
-
 }
-
 li a:hover {
     background-color:cyan;
 }
