@@ -5,7 +5,7 @@ header {
     text-shadow: 2px 3px;
 }
 body {
-    background-image: linear-gradient(to right, #DACA66, #000689);
+    background-image: linear-gradient(to right, #lime, #limegreen);
 }
 body a{
     color: black;
